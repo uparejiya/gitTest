@@ -1,3 +1,3 @@
-This is ReadMe file.
+This is added for conflict.
 line 2 added
 line 3 added.
